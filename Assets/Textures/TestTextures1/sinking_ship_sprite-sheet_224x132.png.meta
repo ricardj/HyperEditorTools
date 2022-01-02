@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 47c782ac7dfdf40de8e669da2696a289
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8723937633237742948
+    second: sinking_ship_sprite-sheet_224x132_0
+  - first:
+      213: -8995238417080271122
+    second: sinking_ship_sprite-sheet_224x132_1
+  - first:
+      213: 2946723017084309515
+    second: sinking_ship_sprite-sheet_224x132_2
+  - first:
+      213: -3112898931446633966
+    second: sinking_ship_sprite-sheet_224x132_3
+  - first:
+      213: -3509470920771527229
+    second: sinking_ship_sprite-sheet_224x132_4
+  - first:
+      213: -6778276031538812544
+    second: sinking_ship_sprite-sheet_224x132_5
+  - first:
+      213: 6592529739507604391
+    second: sinking_ship_sprite-sheet_224x132_6
+  - first:
+      213: -7861037174882569494
+    second: sinking_ship_sprite-sheet_224x132_7
+  - first:
+      213: -6492598798791950659
+    second: sinking_ship_sprite-sheet_224x132_8
+  - first:
+      213: -7500463385124546289
+    second: sinking_ship_sprite-sheet_224x132_9
+  - first:
+      213: 8823452060041231833
+    second: sinking_ship_sprite-sheet_224x132_10
+  - first:
+      213: -3907625144515683198
+    second: sinking_ship_sprite-sheet_224x132_11
+  - first:
+      213: -6250587970407849568
+    second: sinking_ship_sprite-sheet_224x132_12
+  - first:
+      213: 7987526677921945252
+    second: sinking_ship_sprite-sheet_224x132_13
+  - first:
+      213: 4772711909855433538
+    second: sinking_ship_sprite-sheet_224x132_14
+  - first:
+      213: -8405851743605750083
+    second: sinking_ship_sprite-sheet_224x132_15
+  - first:
+      213: 6673760112058155522
+    second: sinking_ship_sprite-sheet_224x132_16
+  - first:
+      213: -1581682806943193851
+    second: sinking_ship_sprite-sheet_224x132_17
+  - first:
+      213: -6789904978123710007
+    second: sinking_ship_sprite-sheet_224x132_18
+  - first:
+      213: -1775418002525537201
+    second: sinking_ship_sprite-sheet_224x132_19
+  - first:
+      213: 677217824721429031
+    second: sinking_ship_sprite-sheet_224x132_20
+  - first:
+      213: 7516116034639524429
+    second: sinking_ship_sprite-sheet_224x132_21
+  - first:
+      213: 137913790269454580
+    second: sinking_ship_sprite-sheet_224x132_22
+  - first:
+      213: 2820125074074813001
+    second: sinking_ship_sprite-sheet_224x132_23
+  - first:
+      213: 7115606603398944934
+    second: sinking_ship_sprite-sheet_224x132_24
+  - first:
+      213: -170215632502479221
+    second: sinking_ship_sprite-sheet_224x132_25
+  - first:
+      213: 8813450026666039496
+    second: sinking_ship_sprite-sheet_224x132_26
+  - first:
+      213: 7506329042379515996
+    second: sinking_ship_sprite-sheet_224x132_27
+  - first:
+      213: 9009498929389895687
+    second: sinking_ship_sprite-sheet_224x132_28
+  - first:
+      213: 272658646367925742
+    second: sinking_ship_sprite-sheet_224x132_29
+  - first:
+      213: -7839036615589262926
+    second: sinking_ship_sprite-sheet_224x132_30
+  - first:
+      213: -6292150688186570257
+    second: sinking_ship_sprite-sheet_224x132_31
+  - first:
+      213: 3729700743272883723
+    second: sinking_ship_sprite-sheet_224x132_32
+  - first:
+      213: -2480702613941514967
+    second: sinking_ship_sprite-sheet_224x132_33
+  - first:
+      213: -3506763958734974708
+    second: sinking_ship_sprite-sheet_224x132_34
+  - first:
+      213: -2017808458583134843
+    second: sinking_ship_sprite-sheet_224x132_35
+  - first:
+      213: -5509297348521491017
+    second: sinking_ship_sprite-sheet_224x132_36
+  - first:
+      213: -282206688199669311
+    second: sinking_ship_sprite-sheet_224x132_37
+  - first:
+      213: -5908748935345120932
+    second: sinking_ship_sprite-sheet_224x132_38
+  - first:
+      213: 7909988137983778217
+    second: sinking_ship_sprite-sheet_224x132_39
+  - first:
+      213: -2253836962024989848
+    second: sinking_ship_sprite-sheet_224x132_40
+  - first:
+      213: -2430448151842062816
+    second: sinking_ship_sprite-sheet_224x132_41
+  - first:
+      213: -8394699253889422283
+    second: sinking_ship_sprite-sheet_224x132_42
+  - first:
+      213: 3351134562436718457
+    second: sinking_ship_sprite-sheet_224x132_43
+  - first:
+      213: 234248242623018659
+    second: sinking_ship_sprite-sheet_224x132_44
+  - first:
+      213: 160134763817405338
+    second: sinking_ship_sprite-sheet_224x132_45
+  - first:
+      213: -2106020273916767669
+    second: sinking_ship_sprite-sheet_224x132_46
+  - first:
+      213: -4682563631150584044
+    second: sinking_ship_sprite-sheet_224x132_47
+  - first:
+      213: -3669350046932118068
+    second: sinking_ship_sprite-sheet_224x132_48
+  - first:
+      213: -4443066851657410463
+    second: sinking_ship_sprite-sheet_224x132_49
+  - first:
+      213: 1152845005452543920
+    second: sinking_ship_sprite-sheet_224x132_50
+  - first:
+      213: -4389336981034485246
+    second: sinking_ship_sprite-sheet_224x132_51
+  - first:
+      213: -2132726864121767807
+    second: sinking_ship_sprite-sheet_224x132_52
+  - first:
+      213: 6890576870334597704
+    second: sinking_ship_sprite-sheet_224x132_53
+  - first:
+      213: -1352819279140146469
+    second: sinking_ship_sprite-sheet_224x132_54
+  - first:
+      213: -7124636294016543097
+    second: sinking_ship_sprite-sheet_224x132_55
+  - first:
+      213: 3456953488418635681
+    second: sinking_ship_sprite-sheet_224x132_56
+  - first:
+      213: 7214868254862529847
+    second: sinking_ship_sprite-sheet_224x132_57
+  - first:
+      213: -1031932068042748448
+    second: sinking_ship_sprite-sheet_224x132_58
+  - first:
+      213: 6848039677771883202
+    second: sinking_ship_sprite-sheet_224x132_59
+  - first:
+      213: 957082452913676625
+    second: sinking_ship_sprite-sheet_224x132_60
+  - first:
+      213: -5679272083263750954
+    second: sinking_ship_sprite-sheet_224x132_61
+  - first:
+      213: -4954602412178994218
+    second: sinking_ship_sprite-sheet_224x132_62
+  - first:
+      213: -6512588601372996975
+    second: sinking_ship_sprite-sheet_224x132_63
+  - first:
+      213: -3211292912849717227
+    second: sinking_ship_sprite-sheet_224x132_64
+  - first:
+      213: 7434464053283599896
+    second: sinking_ship_sprite-sheet_224x132_65
+  - first:
+      213: -9092068779759277335
+    second: sinking_ship_sprite-sheet_224x132_66
+  - first:
+      213: 4003156047422427037
+    second: sinking_ship_sprite-sheet_224x132_67
+  - first:
+      213: 798428664042348256
+    second: sinking_ship_sprite-sheet_224x132_68
+  - first:
+      213: -7706989007969672335
+    second: sinking_ship_sprite-sheet_224x132_69
+  - first:
+      213: -1719231968116923128
+    second: sinking_ship_sprite-sheet_224x132_70
+  - first:
+      213: 1580287639847838401
+    second: sinking_ship_sprite-sheet_224x132_71
+  - first:
+      213: -6722831697642169639
+    second: sinking_ship_sprite-sheet_224x132_72
+  - first:
+      213: 6336598409546240089
+    second: sinking_ship_sprite-sheet_224x132_73
+  - first:
+      213: 1175077832518227660
+    second: sinking_ship_sprite-sheet_224x132_74
+  - first:
+      213: -3674576050349556094
+    second: sinking_ship_sprite-sheet_224x132_75
+  - first:
+      213: -7570264228675484914
+    second: sinking_ship_sprite-sheet_224x132_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4653cc75e07a11970800000000000000
+      internalID: 8723937633237742948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeebbf7815e7a2380800000000000000
+      internalID: -8995238417080271122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0017ccb8fcd4e820800000000000000
+      internalID: 2946723017084309515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a2e692ae2ccc4d0800000000000000
+      internalID: -3112898931446633966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd99d1aacadb4fc0800000000000000
+      internalID: -3509470920771527229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a596bcd9bee1a0800000000000000
+      internalID: -6778276031538812544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9c8e8ede5d7b50800000000000000
+      internalID: 6592529739507604391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2fbf8c65cf7e290800000000000000
+      internalID: -7861037174882569494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb0e0bac7a5e5a0800000000000000
+      internalID: -6492598798791950659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d3d65a4009e790800000000000000
+      internalID: -7500463385124546289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd327366e2337a70800000000000000
+      internalID: 8823452060041231833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c12c172a355c9c0800000000000000
+      internalID: -3907625144515683198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a282ab537149a0800000000000000
+      internalID: -6250587970407849568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_13
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a65e7f913569de60800000000000000
+      internalID: 7987526677921945252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439532f1341c3240800000000000000
+      internalID: 4772711909855433538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db608c3106a685b80800000000000000
+      internalID: -8405851743605750083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c56b7675fd9c50800000000000000
+      internalID: 6673760112058155522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505eec00edbbc0ae0800000000000000
+      internalID: -1581682806943193851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a748956965c1a0800000000000000
+      internalID: -6789904978123710007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb1a7bbb27c57e0800000000000000
+      internalID: -1775418002525537201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72265160606f56900800000000000000
+      internalID: 677217824721429031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d427e4f16bb9e4860800000000000000
+      internalID: 7516116034639524429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f873ae8cd7f9e100800000000000000
+      internalID: 137913790269454580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c66e20d8132720800000000000000
+      internalID: 2820125074074813001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a894057186bfb260800000000000000
+      internalID: 7115606603398944934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a879b8c543adf0800000000000000
+      internalID: -170215632502479221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_26
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c816158a1aaf4a70800000000000000
+      internalID: 8813450026666039496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58aa3a6e76db2860800000000000000
+      internalID: 7506329042379515996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000c8aba8b280d70800000000000000
+      internalID: 9009498929389895687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f2b1289da8c300800000000000000
+      internalID: 272658646367925742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9858a2bb5263390800000000000000
+      internalID: -7839036615589262926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e86d494acda8a0800000000000000
+      internalID: -6292150688186570257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066a41b01f82c330800000000000000
+      internalID: 3729700743272883723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_33
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d02aead16c29dd0800000000000000
+      internalID: -2480702613941514967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01957852c8755fc0800000000000000
+      internalID: -3506763958734974708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58daf51d5ed4ff3e0800000000000000
+      internalID: -2017808458583134843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50063404b0b83b0800000000000000
+      internalID: -5509297348521491017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98e942386651cf0800000000000000
+      internalID: -282206688199669311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5959c13628effda0800000000000000
+      internalID: -5908748935345120932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad93167d4ce5cd60800000000000000
+      internalID: 7909988137983778217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_40
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bdad07933c8b0e0800000000000000
+      internalID: -2253836962024989848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef2707840554ed0800000000000000
+      internalID: -2430448151842062816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2faf6189008b80800000000000000
+      internalID: -8394699253889422283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f1394212f918e20800000000000000
+      internalID: 3351134562436718457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6fdca1987304300800000000000000
+      internalID: 234248242623018659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b078128b9e83200800000000000000
+      internalID: 160134763817405338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429b6318b9e5c2e0800000000000000
+      internalID: -2106020273916767669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_47
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f2b1fcf21340fb0800000000000000
+      internalID: -4682563631150584044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_48
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55c08c299d31dc0800000000000000
+      internalID: -3669350046932118068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16895a12d3e0752c0800000000000000
+      internalID: -4443066851657410463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70517ac6abfff00800000000000000
+      internalID: 1152845005452543920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a34fd7541f513c0800000000000000
+      internalID: -4389336981034485246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d61d77380762e0800000000000000
+      internalID: -2132726864121767807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a01ddd72f30af50800000000000000
+      internalID: 6890576870334597704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23d8d7802d93de0800000000000000
+      internalID: -1352819279140146469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d94dd905302d90800000000000000
+      internalID: -7124636294016543097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7d3ac1e099ff20800000000000000
+      internalID: 3456953488418635681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d258a37c502460800000000000000
+      internalID: 7214868254862529847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4af36047dda1f0800000000000000
+      internalID: -1031932068042748448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_59
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2af51fdcf190f50800000000000000
+      internalID: 6848039677771883202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151edaa8b6d384d00800000000000000
+      internalID: 957082452913676625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_61
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc754e512c2f21b0800000000000000
+      internalID: -5679272083263750954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_62
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db07c25b57bd3bb0800000000000000
+      internalID: -4954602412178994218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a87e61c23ae95a0800000000000000
+      internalID: -6512588601372996975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518fcd32c123f63d0800000000000000
+      internalID: -3211292912849717227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816316fbaa58c2760800000000000000
+      internalID: 7434464053283599896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea670ddd9b72d180800000000000000
+      internalID: -9092068779759277335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f021b27311e8730800000000000000
+      internalID: 4003156047422427037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eedbb2c3a6941b00800000000000000
+      internalID: 798428664042348256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_69
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a024a4564b0590800000000000000
+      internalID: -7706989007969672335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80525e542af0428e0800000000000000
+      internalID: -1719231968116923128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c222185c3f4ee510800000000000000
+      internalID: 1580287639847838401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5d49a034b3b2a0800000000000000
+      internalID: -6722831697642169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_73
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501f454eae10f750800000000000000
+      internalID: 6336598409546240089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65fa61017be4010800000000000000
+      internalID: 1175077832518227660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_75
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb1ca0d88410dc0800000000000000
+      internalID: -3674576050349556094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sinking_ship_sprite-sheet_224x132_76
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0383f10bc401f690800000000000000
+      internalID: -7570264228675484914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eecef9c358a44430a99be47a0df93062
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

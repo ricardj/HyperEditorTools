@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 5baf2363c457b4fab9aaf9c16b1cdefd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4475925669058175112
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_0
+  - first:
+      213: -3404163517547109058
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_1
+  - first:
+      213: -3917292760152284160
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_2
+  - first:
+      213: -6128369642124707801
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_3
+  - first:
+      213: 432312611042050313
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_4
+  - first:
+      213: -7671053775909997572
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_5
+  - first:
+      213: -558398040663898168
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_6
+  - first:
+      213: 3697081113280085973
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_7
+  - first:
+      213: -8401940281395158590
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_8
+  - first:
+      213: 3921296544333964485
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_9
+  - first:
+      213: 1524605047151176211
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_10
+  - first:
+      213: 5109958295337823445
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_11
+  - first:
+      213: 4896287019013928924
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_12
+  - first:
+      213: -6220752043421298043
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_13
+  - first:
+      213: -5373030299873973073
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_14
+  - first:
+      213: -933604904532298665
+    second: opening_afterstorm_dawn_sprite-sheet_224x132_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f1cb6815152e1c0800000000000000
+      internalID: -4475925669058175112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a24b115bf1c0d0800000000000000
+      internalID: -3404163517547109058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e9e54dfaf2a9c0800000000000000
+      internalID: -3917292760152284160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287edca748a3faa0800000000000000
+      internalID: -6128369642124707801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901451d7702eff500800000000000000
+      internalID: 432312611042050313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf337f9db31fa8590800000000000000
+      internalID: -7671053775909997572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c744f6c0fb2048f0800000000000000
+      internalID: -558398040663898168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df7dde3fabae4330800000000000000
+      internalID: 3697081113280085973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1656754df466b80800000000000000
+      internalID: -8401940281395158590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42eff5e6e3b6630800000000000000
+      internalID: 3921296544333964485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa632763c782510800000000000000
+      internalID: 1524605047151176211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dceba2fef73ae640800000000000000
+      internalID: 5109958295337823445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77ea62a1b13f340800000000000000
+      internalID: 4896287019013928924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5829618b9f27ba9a0800000000000000
+      internalID: -6220752043421298043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face998e8692f65b0800000000000000
+      internalID: -5373030299873973073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_dawn_sprite-sheet_224x132_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7543ac8294b2b03f0800000000000000
+      internalID: -933604904532298665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3e7cba16f83044b61b99af0cc7b9bd16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

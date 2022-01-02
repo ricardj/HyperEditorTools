@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 1ad97cf0325e94424b6653cb01f6232a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5378712893819902016
+    second: opening_afterstorm_beach_sprite-sheet_224x132_0
+  - first:
+      213: 8648368562887335590
+    second: opening_afterstorm_beach_sprite-sheet_224x132_1
+  - first:
+      213: -6549335374067513118
+    second: opening_afterstorm_beach_sprite-sheet_224x132_2
+  - first:
+      213: 6347492636509912152
+    second: opening_afterstorm_beach_sprite-sheet_224x132_3
+  - first:
+      213: -1358506321110924594
+    second: opening_afterstorm_beach_sprite-sheet_224x132_4
+  - first:
+      213: -6166075173160212602
+    second: opening_afterstorm_beach_sprite-sheet_224x132_5
+  - first:
+      213: 7249442989733556338
+    second: opening_afterstorm_beach_sprite-sheet_224x132_6
+  - first:
+      213: -2220824232086391302
+    second: opening_afterstorm_beach_sprite-sheet_224x132_7
+  - first:
+      213: 7379591940367042429
+    second: opening_afterstorm_beach_sprite-sheet_224x132_8
+  - first:
+      213: -7857788975757540652
+    second: opening_afterstorm_beach_sprite-sheet_224x132_9
+  - first:
+      213: 7641801669829311082
+    second: opening_afterstorm_beach_sprite-sheet_224x132_10
+  - first:
+      213: 7059229160395655638
+    second: opening_afterstorm_beach_sprite-sheet_224x132_11
+  - first:
+      213: 8338279077098302136
+    second: opening_afterstorm_beach_sprite-sheet_224x132_12
+  - first:
+      213: 3141193607111566805
+    second: opening_afterstorm_beach_sprite-sheet_224x132_13
+  - first:
+      213: -4914881332999439110
+    second: opening_afterstorm_beach_sprite-sheet_224x132_14
+  - first:
+      213: -752258536464161410
+    second: opening_afterstorm_beach_sprite-sheet_224x132_15
+  - first:
+      213: 8048587197544660510
+    second: opening_afterstorm_beach_sprite-sheet_224x132_16
+  - first:
+      213: -8360883907760702942
+    second: opening_afterstorm_beach_sprite-sheet_224x132_17
+  - first:
+      213: -3123676268896742944
+    second: opening_afterstorm_beach_sprite-sheet_224x132_18
+  - first:
+      213: 1550975524938202306
+    second: opening_afterstorm_beach_sprite-sheet_224x132_19
+  - first:
+      213: 1860435899927913328
+    second: opening_afterstorm_beach_sprite-sheet_224x132_20
+  - first:
+      213: 6610028099575361218
+    second: opening_afterstorm_beach_sprite-sheet_224x132_21
+  - first:
+      213: 4557272999391893536
+    second: opening_afterstorm_beach_sprite-sheet_224x132_22
+  - first:
+      213: -6214832350527077986
+    second: opening_afterstorm_beach_sprite-sheet_224x132_23
+  - first:
+      213: -1585960409970524891
+    second: opening_afterstorm_beach_sprite-sheet_224x132_24
+  - first:
+      213: 2290814625615469183
+    second: opening_afterstorm_beach_sprite-sheet_224x132_25
+  - first:
+      213: 99948826473334375
+    second: opening_afterstorm_beach_sprite-sheet_224x132_26
+  - first:
+      213: 530118461859358888
+    second: opening_afterstorm_beach_sprite-sheet_224x132_27
+  - first:
+      213: 7468549256708490010
+    second: opening_afterstorm_beach_sprite-sheet_224x132_28
+  - first:
+      213: -5527993018305019853
+    second: opening_afterstorm_beach_sprite-sheet_224x132_29
+  - first:
+      213: 898669038760657584
+    second: opening_afterstorm_beach_sprite-sheet_224x132_30
+  - first:
+      213: 8467364038733042433
+    second: opening_afterstorm_beach_sprite-sheet_224x132_31
+  - first:
+      213: -9186521129054647828
+    second: opening_afterstorm_beach_sprite-sheet_224x132_32
+  - first:
+      213: -2687760896759108106
+    second: opening_afterstorm_beach_sprite-sheet_224x132_33
+  - first:
+      213: -3351961689056790496
+    second: opening_afterstorm_beach_sprite-sheet_224x132_34
+  - first:
+      213: 4776751137271376430
+    second: opening_afterstorm_beach_sprite-sheet_224x132_35
+  - first:
+      213: 6004402338564874869
+    second: opening_afterstorm_beach_sprite-sheet_224x132_36
+  - first:
+      213: 2144740380247018370
+    second: opening_afterstorm_beach_sprite-sheet_224x132_37
+  - first:
+      213: 3122914747841568236
+    second: opening_afterstorm_beach_sprite-sheet_224x132_38
+  - first:
+      213: 5816103367661064991
+    second: opening_afterstorm_beach_sprite-sheet_224x132_39
+  - first:
+      213: -7337412077121897518
+    second: opening_afterstorm_beach_sprite-sheet_224x132_40
+  - first:
+      213: 4904503082986338612
+    second: opening_afterstorm_beach_sprite-sheet_224x132_41
+  - first:
+      213: -3508097895063012729
+    second: opening_afterstorm_beach_sprite-sheet_224x132_42
+  - first:
+      213: -4779927961019766337
+    second: opening_afterstorm_beach_sprite-sheet_224x132_43
+  - first:
+      213: -9065300863033166577
+    second: opening_afterstorm_beach_sprite-sheet_224x132_44
+  - first:
+      213: -5383324091073893490
+    second: opening_afterstorm_beach_sprite-sheet_224x132_45
+  - first:
+      213: 4600921558903708084
+    second: opening_afterstorm_beach_sprite-sheet_224x132_46
+  - first:
+      213: -4609862380609487826
+    second: opening_afterstorm_beach_sprite-sheet_224x132_47
+  - first:
+      213: -2338532980254799014
+    second: opening_afterstorm_beach_sprite-sheet_224x132_48
+  - first:
+      213: -6853116858696478049
+    second: opening_afterstorm_beach_sprite-sheet_224x132_49
+  - first:
+      213: 6833417185687867478
+    second: opening_afterstorm_beach_sprite-sheet_224x132_50
+  - first:
+      213: -2354337182091837624
+    second: opening_afterstorm_beach_sprite-sheet_224x132_51
+  - first:
+      213: -6974773669925776776
+    second: opening_afterstorm_beach_sprite-sheet_224x132_52
+  - first:
+      213: 6231272261995325313
+    second: opening_afterstorm_beach_sprite-sheet_224x132_53
+  - first:
+      213: 2993978979227604555
+    second: opening_afterstorm_beach_sprite-sheet_224x132_54
+  - first:
+      213: 203259879602512163
+    second: opening_afterstorm_beach_sprite-sheet_224x132_55
+  - first:
+      213: 4662416500518245794
+    second: opening_afterstorm_beach_sprite-sheet_224x132_56
+  - first:
+      213: -1415392283766118048
+    second: opening_afterstorm_beach_sprite-sheet_224x132_57
+  - first:
+      213: -198251949162293191
+    second: opening_afterstorm_beach_sprite-sheet_224x132_58
+  - first:
+      213: -2204158594199846561
+    second: opening_afterstorm_beach_sprite-sheet_224x132_59
+  - first:
+      213: 1612026661745567240
+    second: opening_afterstorm_beach_sprite-sheet_224x132_60
+  - first:
+      213: 158795843990783413
+    second: opening_afterstorm_beach_sprite-sheet_224x132_61
+  - first:
+      213: 3581515135610418382
+    second: opening_afterstorm_beach_sprite-sheet_224x132_62
+  - first:
+      213: 2980295126006941711
+    second: opening_afterstorm_beach_sprite-sheet_224x132_63
+  - first:
+      213: -6720097731422341942
+    second: opening_afterstorm_beach_sprite-sheet_224x132_64
+  - first:
+      213: 2671625203571220855
+    second: opening_afterstorm_beach_sprite-sheet_224x132_65
+  - first:
+      213: 19062111235422810
+    second: opening_afterstorm_beach_sprite-sheet_224x132_66
+  - first:
+      213: 5119906260409847620
+    second: opening_afterstorm_beach_sprite-sheet_224x132_67
+  - first:
+      213: -5852817368399928455
+    second: opening_afterstorm_beach_sprite-sheet_224x132_68
+  - first:
+      213: -5281772472425607426
+    second: opening_afterstorm_beach_sprite-sheet_224x132_69
+  - first:
+      213: -7916509585486805272
+    second: opening_afterstorm_beach_sprite-sheet_224x132_70
+  - first:
+      213: 1984442533838467810
+    second: opening_afterstorm_beach_sprite-sheet_224x132_71
+  - first:
+      213: -8860139120415996152
+    second: opening_afterstorm_beach_sprite-sheet_224x132_72
+  - first:
+      213: 7922196458993311299
+    second: opening_afterstorm_beach_sprite-sheet_224x132_73
+  - first:
+      213: -3514884540933588926
+    second: opening_afterstorm_beach_sprite-sheet_224x132_74
+  - first:
+      213: 3122350123659158082
+    second: opening_afterstorm_beach_sprite-sheet_224x132_75
+  - first:
+      213: 5029837800355820666
+    second: opening_afterstorm_beach_sprite-sheet_224x132_76
+  - first:
+      213: 7454429343222930476
+    second: opening_afterstorm_beach_sprite-sheet_224x132_77
+  - first:
+      213: 5116105227440730864
+    second: opening_afterstorm_beach_sprite-sheet_224x132_78
+  - first:
+      213: -6057046638767102589
+    second: opening_afterstorm_beach_sprite-sheet_224x132_79
+  - first:
+      213: 4392431476142205510
+    second: opening_afterstorm_beach_sprite-sheet_224x132_80
+  - first:
+      213: -3848983997706925040
+    second: opening_afterstorm_beach_sprite-sheet_224x132_81
+  - first:
+      213: 2773951254378204125
+    second: opening_afterstorm_beach_sprite-sheet_224x132_82
+  - first:
+      213: 5622496489388267318
+    second: opening_afterstorm_beach_sprite-sheet_224x132_83
+  - first:
+      213: 2734713740344277054
+    second: opening_afterstorm_beach_sprite-sheet_224x132_84
+  - first:
+      213: 3898577001986177375
+    second: opening_afterstorm_beach_sprite-sheet_224x132_85
+  - first:
+      213: 1040697138074133754
+    second: opening_afterstorm_beach_sprite-sheet_224x132_86
+  - first:
+      213: -6170686210507112198
+    second: opening_afterstorm_beach_sprite-sheet_224x132_87
+  - first:
+      213: 7011612483169819739
+    second: opening_afterstorm_beach_sprite-sheet_224x132_88
+  - first:
+      213: -841482097729434443
+    second: opening_afterstorm_beach_sprite-sheet_224x132_89
+  - first:
+      213: 8593201181952418
+    second: opening_afterstorm_beach_sprite-sheet_224x132_90
+  - first:
+      213: -7213283868520671840
+    second: opening_afterstorm_beach_sprite-sheet_224x132_91
+  - first:
+      213: -4815697824117250686
+    second: opening_afterstorm_beach_sprite-sheet_224x132_92
+  - first:
+      213: -2171651387747418941
+    second: opening_afterstorm_beach_sprite-sheet_224x132_93
+  - first:
+      213: 8201178084298893806
+    second: opening_afterstorm_beach_sprite-sheet_224x132_94
+  - first:
+      213: 9076396987503199825
+    second: opening_afterstorm_beach_sprite-sheet_224x132_95
+  - first:
+      213: 1058383681759468609
+    second: opening_afterstorm_beach_sprite-sheet_224x132_96
+  - first:
+      213: -2743646300699709783
+    second: opening_afterstorm_beach_sprite-sheet_224x132_97
+  - first:
+      213: 3888995121589918017
+    second: opening_afterstorm_beach_sprite-sheet_224x132_98
+  - first:
+      213: 3150955949963479392
+    second: opening_afterstorm_beach_sprite-sheet_224x132_99
+  - first:
+      213: -8176713496623510113
+    second: opening_afterstorm_beach_sprite-sheet_224x132_100
+  - first:
+      213: -8730221690146359847
+    second: opening_afterstorm_beach_sprite-sheet_224x132_101
+  - first:
+      213: -853074354176000237
+    second: opening_afterstorm_beach_sprite-sheet_224x132_102
+  - first:
+      213: -5653522279292497142
+    second: opening_afterstorm_beach_sprite-sheet_224x132_103
+  - first:
+      213: -4307596005144525993
+    second: opening_afterstorm_beach_sprite-sheet_224x132_104
+  - first:
+      213: 2607742607919842428
+    second: opening_afterstorm_beach_sprite-sheet_224x132_105
+  - first:
+      213: -2989826114757325471
+    second: opening_afterstorm_beach_sprite-sheet_224x132_106
+  - first:
+      213: 5026986844069973335
+    second: opening_afterstorm_beach_sprite-sheet_224x132_107
+  - first:
+      213: 6178698145469750198
+    second: opening_afterstorm_beach_sprite-sheet_224x132_108
+  - first:
+      213: 5440716847633390436
+    second: opening_afterstorm_beach_sprite-sheet_224x132_109
+  - first:
+      213: -7668150068179421195
+    second: opening_afterstorm_beach_sprite-sheet_224x132_110
+  - first:
+      213: -8608243569074949313
+    second: opening_afterstorm_beach_sprite-sheet_224x132_111
+  - first:
+      213: 268434651007524400
+    second: opening_afterstorm_beach_sprite-sheet_224x132_112
+  - first:
+      213: -3714545322272215676
+    second: opening_afterstorm_beach_sprite-sheet_224x132_113
+  - first:
+      213: -8908292777710870806
+    second: opening_afterstorm_beach_sprite-sheet_224x132_114
+  - first:
+      213: -3460136011180055524
+    second: opening_afterstorm_beach_sprite-sheet_224x132_115
+  - first:
+      213: -6257683870440890649
+    second: opening_afterstorm_beach_sprite-sheet_224x132_116
+  - first:
+      213: 7841411312471315200
+    second: opening_afterstorm_beach_sprite-sheet_224x132_117
+  - first:
+      213: -4802386660061424662
+    second: opening_afterstorm_beach_sprite-sheet_224x132_118
+  - first:
+      213: 8740049594702680974
+    second: opening_afterstorm_beach_sprite-sheet_224x132_119
+  - first:
+      213: 2091187512608353380
+    second: opening_afterstorm_beach_sprite-sheet_224x132_120
+  - first:
+      213: 865271082550143435
+    second: opening_afterstorm_beach_sprite-sheet_224x132_121
+  - first:
+      213: -800189113462448677
+    second: opening_afterstorm_beach_sprite-sheet_224x132_122
+  - first:
+      213: -7895915159779510793
+    second: opening_afterstorm_beach_sprite-sheet_224x132_123
+  - first:
+      213: -7209735117534981389
+    second: opening_afterstorm_beach_sprite-sheet_224x132_124
+  - first:
+      213: -3258351592395960082
+    second: opening_afterstorm_beach_sprite-sheet_224x132_125
+  - first:
+      213: 385205593224501125
+    second: opening_afterstorm_beach_sprite-sheet_224x132_126
+  - first:
+      213: -5813573834918022014
+    second: opening_afterstorm_beach_sprite-sheet_224x132_127
+  - first:
+      213: -8680244627281403895
+    second: opening_afterstorm_beach_sprite-sheet_224x132_128
+  - first:
+      213: 4940827346712249700
+    second: opening_afterstorm_beach_sprite-sheet_224x132_129
+  - first:
+      213: -1640568041106982643
+    second: opening_afterstorm_beach_sprite-sheet_224x132_130
+  - first:
+      213: -6959740188000647937
+    second: opening_afterstorm_beach_sprite-sheet_224x132_131
+  - first:
+      213: -8927124157521597376
+    second: opening_afterstorm_beach_sprite-sheet_224x132_132
+  - first:
+      213: -3630908745744173050
+    second: opening_afterstorm_beach_sprite-sheet_224x132_133
+  - first:
+      213: 6099983276762426607
+    second: opening_afterstorm_beach_sprite-sheet_224x132_134
+  - first:
+      213: -660233102689057163
+    second: opening_afterstorm_beach_sprite-sheet_224x132_135
+  - first:
+      213: 2685603563166460181
+    second: opening_afterstorm_beach_sprite-sheet_224x132_136
+  - first:
+      213: 2643652742610165059
+    second: opening_afterstorm_beach_sprite-sheet_224x132_137
+  - first:
+      213: 6327448858533851604
+    second: opening_afterstorm_beach_sprite-sheet_224x132_138
+  - first:
+      213: 2971103882139102159
+    second: opening_afterstorm_beach_sprite-sheet_224x132_139
+  - first:
+      213: 6415373347105334814
+    second: opening_afterstorm_beach_sprite-sheet_224x132_140
+  - first:
+      213: -7254746453763281691
+    second: opening_afterstorm_beach_sprite-sheet_224x132_141
+  - first:
+      213: -9127085845785020633
+    second: opening_afterstorm_beach_sprite-sheet_224x132_142
+  - first:
+      213: 6457886366259197430
+    second: opening_afterstorm_beach_sprite-sheet_224x132_143
+  - first:
+      213: -5658998369305720081
+    second: opening_afterstorm_beach_sprite-sheet_224x132_144
+  - first:
+      213: 1746677878740664821
+    second: opening_afterstorm_beach_sprite-sheet_224x132_145
+  - first:
+      213: -2476797276679683527
+    second: opening_afterstorm_beach_sprite-sheet_224x132_146
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72d07ee19fa55b0800000000000000
+      internalID: -5378712893819902016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1e8d036d250870800000000000000
+      internalID: 8648368562887335590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e84ec95d261c15a0800000000000000
+      internalID: -6549335374067513118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb4952ce2d61850800000000000000
+      internalID: 6347492636509912152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28f09d2bd952de0800000000000000
+      internalID: -1358506321110924594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6872e6d9c43bd6aa0800000000000000
+      internalID: -6166075173160212602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b38e6df13b9460800000000000000
+      internalID: 7249442989733556338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af539e9902c0e21e0800000000000000
+      internalID: -2220824232086391302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c9e065c3996660800000000000000
+      internalID: 7379591940367042429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2cdf31f8683f290800000000000000
+      internalID: -7857788975757540652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab92671222d0a60800000000000000
+      internalID: 7641801669829311082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9467d158b67f160800000000000000
+      internalID: 7059229160395655638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba248c74a487b370800000000000000
+      internalID: 8338279077098302136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ec9261f2c79b20800000000000000
+      internalID: 3141193607111566805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcbe51c775dacbb0800000000000000
+      internalID: -4914881332999439110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756cc2c8d07f85f0800000000000000
+      internalID: -752258536464161410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef765b96352bf60800000000000000
+      internalID: 8048587197544660510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_17
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab4ad326c28fb80800000000000000
+      internalID: -8360883907760702942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1971fbbf876a4d0800000000000000
+      internalID: -3123676268896742944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3443c50c268510800000000000000
+      internalID: 1550975524938202306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073669e089891d910800000000000000
+      internalID: 1860435899927913328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2a8ef8898bbb50800000000000000
+      internalID: 6610028099575361218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289b31c5afae3f30800000000000000
+      internalID: 4557272999391893536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_afterstorm_beach_sprite-sheet_224x132_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914a30a7ea70c9a0800000000000000
+      internalID: -6214832350527077986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 932715e953c4d47538573fcfaa751fca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

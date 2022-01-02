@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 4c50d88c35c254657a6f16f02b7e3935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3653614638520872028
+    second: opening_cutscene_storm_sprite-sheet_224x132_0
+  - first:
+      213: -1468138574950114535
+    second: opening_cutscene_storm_sprite-sheet_224x132_1
+  - first:
+      213: 4077467310643135813
+    second: opening_cutscene_storm_sprite-sheet_224x132_2
+  - first:
+      213: 1869618478892530015
+    second: opening_cutscene_storm_sprite-sheet_224x132_3
+  - first:
+      213: -4633640490692745617
+    second: opening_cutscene_storm_sprite-sheet_224x132_4
+  - first:
+      213: -848167223022367629
+    second: opening_cutscene_storm_sprite-sheet_224x132_5
+  - first:
+      213: -7536994072504902627
+    second: opening_cutscene_storm_sprite-sheet_224x132_6
+  - first:
+      213: 2289307357249873855
+    second: opening_cutscene_storm_sprite-sheet_224x132_7
+  - first:
+      213: -4379997001572691095
+    second: opening_cutscene_storm_sprite-sheet_224x132_8
+  - first:
+      213: 4721180566265255740
+    second: opening_cutscene_storm_sprite-sheet_224x132_9
+  - first:
+      213: 6206718376737803660
+    second: opening_cutscene_storm_sprite-sheet_224x132_10
+  - first:
+      213: 5458570850290753403
+    second: opening_cutscene_storm_sprite-sheet_224x132_11
+  - first:
+      213: 6839608249637295369
+    second: opening_cutscene_storm_sprite-sheet_224x132_12
+  - first:
+      213: -3480623436049574697
+    second: opening_cutscene_storm_sprite-sheet_224x132_13
+  - first:
+      213: -5783772651994191722
+    second: opening_cutscene_storm_sprite-sheet_224x132_14
+  - first:
+      213: 4656476589661289018
+    second: opening_cutscene_storm_sprite-sheet_224x132_15
+  - first:
+      213: 6804644849171955336
+    second: opening_cutscene_storm_sprite-sheet_224x132_16
+  - first:
+      213: 1420381380428695564
+    second: opening_cutscene_storm_sprite-sheet_224x132_17
+  - first:
+      213: -2831407577156340329
+    second: opening_cutscene_storm_sprite-sheet_224x132_18
+  - first:
+      213: -3276735002606286986
+    second: opening_cutscene_storm_sprite-sheet_224x132_19
+  - first:
+      213: 7716406495808420016
+    second: opening_cutscene_storm_sprite-sheet_224x132_20
+  - first:
+      213: -4419622880898521584
+    second: opening_cutscene_storm_sprite-sheet_224x132_21
+  - first:
+      213: -6628411617190317573
+    second: opening_cutscene_storm_sprite-sheet_224x132_22
+  - first:
+      213: 2220098627637624967
+    second: opening_cutscene_storm_sprite-sheet_224x132_23
+  - first:
+      213: 1586761556487469134
+    second: opening_cutscene_storm_sprite-sheet_224x132_24
+  - first:
+      213: 1033386411196376643
+    second: opening_cutscene_storm_sprite-sheet_224x132_25
+  - first:
+      213: 341646971149580788
+    second: opening_cutscene_storm_sprite-sheet_224x132_26
+  - first:
+      213: -6396571625279686766
+    second: opening_cutscene_storm_sprite-sheet_224x132_27
+  - first:
+      213: 3898446164961048617
+    second: opening_cutscene_storm_sprite-sheet_224x132_28
+  - first:
+      213: -7516957922540475917
+    second: opening_cutscene_storm_sprite-sheet_224x132_29
+  - first:
+      213: -6805199162782710147
+    second: opening_cutscene_storm_sprite-sheet_224x132_30
+  - first:
+      213: 1204272315448855331
+    second: opening_cutscene_storm_sprite-sheet_224x132_31
+  - first:
+      213: 1749342897017533017
+    second: opening_cutscene_storm_sprite-sheet_224x132_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2433f72f34b230800000000000000
+      internalID: 3653614638520872028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bdc0f9ebf10abe0800000000000000
+      internalID: -1468138574950114535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1320
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c62a6ae2169830800000000000000
+      internalID: 4077467310643135813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5935e3d91832f910800000000000000
+      internalID: 1869618478892530015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666467168002bfb0800000000000000
+      internalID: -4633640490692745617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1188
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4f998764ba34f0800000000000000
+      internalID: -848167223022367629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cde12e2d7376790800000000000000
+      internalID: -7536994072504902627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7219289e045cf10800000000000000
+      internalID: 2289307357249873855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963dbfbeeef1733c0800000000000000
+      internalID: -4379997001572691095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d7bc06b0058140800000000000000
+      internalID: 4721180566265255740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8852aa71b22650800000000000000
+      internalID: 6206718376737803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 924
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fd1e0844db0cb40800000000000000
+      internalID: 5458570850290753403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905567a177b2bee50800000000000000
+      internalID: 6839608249637295369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49d511d6752bfc0800000000000000
+      internalID: -3480623436049574697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 792
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986440ba69ebbfa0800000000000000
+      internalID: -5783772651994191722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afea789c02f9040800000000000000
+      internalID: 4656476589661289018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef5911074fe6e50800000000000000
+      internalID: 6804644849171955336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 660
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08080a075536b310800000000000000
+      internalID: 1420381380428695564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7953f3d5fc1d4b8d0800000000000000
+      internalID: -2831407577156340329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677409240e2b682d0800000000000000
+      internalID: -3276735002606286986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87d2d13de261b60800000000000000
+      internalID: 7716406495808420016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016eadee7685aa2c0800000000000000
+      internalID: -4419622880898521584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17c44c0c62304a0800000000000000
+      internalID: -6628411617190317573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804ca270ff5fce10800000000000000
+      internalID: 2220098627637624967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487ea58a3f450610800000000000000
+      internalID: 1586761556487469134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34663134773575e00800000000000000
+      internalID: 1033386411196376643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f975f13c16cdb400800000000000000
+      internalID: 341646971149580788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977cde4fffca37a0800000000000000
+      internalID: -6396571625279686766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928bc76d1201a1630800000000000000
+      internalID: 3898446164961048617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 132
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9aa6398966ea790800000000000000
+      internalID: -7516957922540475917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d760d8cba631f81a0800000000000000
+      internalID: -6805199162782710147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8a275a4f66b010800000000000000
+      internalID: 1204272315448855331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: opening_cutscene_storm_sprite-sheet_224x132_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952351fa81ae64810800000000000000
+      internalID: 1749342897017533017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25426b456dbf44c18b46da0866f3e3d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
